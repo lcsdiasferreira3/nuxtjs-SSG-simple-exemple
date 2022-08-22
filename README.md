@@ -1,0 +1,1 @@
+# nuxtjs-SSG-simple-exemple
